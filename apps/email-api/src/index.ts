@@ -80,7 +80,7 @@ async function withTurnstile(c: Context, next: Next) {
 app.post("/mailbox", withTurnstile, async (c) => {
   const jwtSecret = new TextEncoder().encode(c.env.JWT_SECRET);
   const name = randomName("", ".");
-  const domain = "vmail.dev";
+  const domain = "xmail.1010822.xyz";
   const mailbox = `${name}@${domain}`;
   const token = await new jose.SignJWT({ mailbox })
     .setProtectedHeader({ alg: "HS256" })

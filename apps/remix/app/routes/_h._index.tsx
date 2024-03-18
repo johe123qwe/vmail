@@ -104,7 +104,7 @@ export const action: ActionFunction = async ({ request }) => {
     };
   }
 
-  const domain = "vmail.dev";
+  const domain = "xmail.1010822.xyz";
   const mailbox = `${randomName("", ".")}@${domain}`;
   const userMailbox = await userMailboxCookie.serialize(mailbox);
   return redirect("/", {

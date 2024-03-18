@@ -10,9 +10,9 @@
 
 ### 截图
 
-demo：https://vmail.dev
+demo：https://xmail.1010822.xyz
 
-![](https://vmail.dev/preview.png) 
+![](https://xmail.1010822.xyz/preview.png) 
 
 ## 自托管
 
