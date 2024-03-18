@@ -1,4 +1,4 @@
-## xmail.1010822.xyz
+## 1010822.xyz
 
 [中文文档](/README_zh.md)
 
@@ -12,9 +12,9 @@ Temporary email service build with email worker.
 
 ### Screenshot
 
-demo: https://xmail.1010822.xyz
+demo: https://1010822.xyz
 
-![](https://xmail.1010822.xyz/preview.png)
+![](https://1010822.xyz/preview.png)
 
 ## Self-hosted 
 

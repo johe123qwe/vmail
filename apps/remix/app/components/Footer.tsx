@@ -7,11 +7,11 @@ export default function Footer() {
   return (
     <div className="text-white w-full mt-auto flex flex-col items-center justify-between px-5 pt-16 mb-10 md:px-10 mx-auto sm:flex-row">
       <a href="/" className="text-xl font-black leading-none select-none logo">
-        xmail.1010822.xyz
+        1010822.xyz
       </a>
       <a
         className="mt-4 text-sm text-gray-400 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-200 sm:mt-0"
-        href="https://xmail.1010822.xyz"
+        href="https://1010822.xyz"
         target="_blank">
         {" "}
         © 2024 Products of Yesmore{" "}

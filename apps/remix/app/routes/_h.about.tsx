@@ -19,7 +19,7 @@ export default function Index() {
           About{" "}
         </h1>
         <p className="mt-8">
-          <strong>xmail.1010822.xyz </strong> is a Virtual temporary email service.{" "}
+          <strong>1010822.xyz </strong> is a Virtual temporary email service.{" "}
         </p>
         <p className="mt-4">
           You can get a temporary email without revealing any personal
@@ -46,8 +46,8 @@ export default function Index() {
         </h2>
         <p className="mt-4">
           All copyrights belong to{" "}
-          <a href="https://xmail.1010822.xyz" rel="nofollow">
-            <strong>xmail.1010822.xyz </strong>{" "}
+          <a href="https://1010822.xyz" rel="nofollow">
+            <strong>1010822.xyz </strong>{" "}
           </a>
           .{" "}
         </p>

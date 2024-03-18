@@ -9,7 +9,7 @@ export default function Header() {
       <Link to="/" className="font-bold flex items-center justify-center gap-3">
         <VmailLogo />
         <button className="cool-btn">
-          <span>xmail.1010822.xyz</span>
+          <span>1010822.xyz</span>
         </button>
       </Link>
 
